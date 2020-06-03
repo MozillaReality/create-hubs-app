@@ -2,6 +2,8 @@
 
 Bootstrap a Mozilla Hubs project with a single command.
 
+**Work in Progress. This doesn't work yet.**
+
 ### npx
 ```
 npx create-hubs-app my-hubs-app
