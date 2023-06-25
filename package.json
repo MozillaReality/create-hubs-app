@@ -10,9 +10,9 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "commander": "^5.1.0",
-    "cpy": "^8.1.0",
+    "cpy": "^10.1.0",
     "cross-spawn": "^7.0.3",
-    "make-dir": "^3.1.0",
+    "make-dir": "^4.0.0",
     "validate-npm-package-name": "^3.0.0"
   }
 }
